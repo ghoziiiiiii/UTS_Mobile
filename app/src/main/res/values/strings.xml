@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UTS_GHOZIAKBAR</string>
+
+
+
+<!-- Status Options -->
+<string-array name="status_options">
+    <item>Belum Selesai</item>
+    <item>Dalam Proses</item>
+    <item>Selesai</item>
+</string-array>
+</resources>
